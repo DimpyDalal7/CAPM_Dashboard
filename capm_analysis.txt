@@ -1,0 +1,4 @@
+1. Modify table
+remove index column
+choose separate stock and compare with sp500
+ 
